@@ -22,7 +22,7 @@ body,td,th {
 }
 </style>
 <meta charset="utf-8">
-<title>°Î«¬‡µ’Î¬«µÈ¡¬”∫È“π≈“¬®ÿ¥¢È“ß«—ß</title>
+<title>‡∏Å‡πã‡∏ß‡∏¢‡πÄ‡∏ï‡∏µ‡πã‡∏¢‡∏ß‡∏ï‡πâ‡∏°‡∏¢‡∏≥‡∏ö‡πâ‡∏≤‡∏ô‡∏•‡∏≤‡∏¢‡∏à‡∏∏‡∏î‡∏Ç‡πâ‡∏≤‡∏á‡∏ß‡∏±‡∏á</title>
 </head>
 
 <body>
@@ -33,163 +33,163 @@ body,td,th {
     </tr>
     <tr>
       <td colspan="3"><marquee align="left"><font size="+1">
-      °Î«¬‡µ’Î¬«µÈ¡¬”∫È“π≈“¬®ÿ¥¢È“ß«—ß ¬‘π¥’µÕπ√—∫ ‡™‘≠ —Ëßµ“¡„®™Õ∫‡≈¬π–^^
+      ‡∏Å‡πã‡∏ß‡∏¢‡πÄ‡∏ï‡∏µ‡πã‡∏¢‡∏ß‡∏ï‡πâ‡∏°‡∏¢‡∏≥‡∏ö‡πâ‡∏≤‡∏ô‡∏•‡∏≤‡∏¢‡∏à‡∏∏‡∏î‡∏Ç‡πâ‡∏≤‡∏á‡∏ß‡∏±‡∏á ‡∏¢‡∏¥‡∏ô‡∏î‡∏µ‡∏ï‡∏≠‡∏ô‡∏£‡∏±‡∏ö ‡πÄ‡∏ä‡∏¥‡∏ç‡∏™‡∏±‡πà‡∏á‡∏ï‡∏≤‡∏°‡πÉ‡∏à‡∏ä‡∏≠‡∏ö‡πÄ‡∏•‡∏¢‡∏ô‡∏∞^^
       </font></marquee></td>
     </tr>
     <tr>
       <td width="10">&nbsp;</td>
-      <td width="307" ><h1><center> —Ëß°Î«¬‡µ’Î¬«µÈ¡¬”</center></h1>
-      <center><h3>∫È“π≈“¬®ÿ¥¢È“ß«—ß   </h3></center>
-	  <center>----∑Ë“π∑’Ë1----</center>
+      <td width="307" ><h1><center>‡∏™‡∏±‡πà‡∏á‡∏Å‡πã‡∏ß‡∏¢‡πÄ‡∏ï‡∏µ‡πã‡∏¢‡∏ß‡∏ï‡πâ‡∏°‡∏¢‡∏≥</center></h1>
+      <center><h3>‡∏ö‡πâ‡∏≤‡∏ô‡∏•‡∏≤‡∏¢‡∏à‡∏∏‡∏î‡∏Ç‡πâ‡∏≤‡∏á‡∏ß‡∏±‡∏á   </h3></center>
+	  <center>----‡∏ó‡πà‡∏≤‡∏ô‡∏ó‡∏µ‡πà1----</center>
       <form class="form-group" method="post" action="3.php" font="quark bold">    
        	<div class="form-group">
-          <label for="select"><h4>‡≈◊Õ°‡ Èπ :</h4></label>
+          <label for="select"><h4>‡πÄ‡∏•‡∏∑‡∏≠‡∏Å‡πÄ‡∏™‡πâ‡∏ô :</h4></label>
           <select  class="form-control" name="select" id="select" >
-             <option>‡≈◊Õ°‡ Èπ</option>
-            <option>‡ Èπ‡≈Á°</option>
-            <option>‡ ÈπÀ¡’Ë</option>
-            <option>‡ Èπ∫–À¡’Ë</option>
-            <option>«ÿÈπ‡ Èπ</option>
+             <option>‡πÄ‡∏•‡∏∑‡∏≠‡∏Å‡πÄ‡∏™‡πâ‡∏ô</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡πÄ‡∏•‡πá‡∏Å</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡∏´‡∏°‡∏µ‡πà</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡∏ö‡∏∞‡∏´‡∏°‡∏µ‡πà</option>
+            <option>‡∏ß‡∏∏‡πâ‡∏ô‡πÄ‡∏™‡πâ‡∏ô</option>
           </select>
        	  </div>
         </p>
         <p>
         <div class="form-group">
           <label>
-            <input type="checkbox" name="CheckboxGroup1[]" value="À¡Ÿ" id="CheckboxGroup1_0">
-            À¡Ÿ</label>
+            <input type="checkbox" name="CheckboxGroup1[]" value="‡∏´‡∏°‡∏π" id="CheckboxGroup1_0">
+            ‡∏´‡∏°‡∏π</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup1[]" value="≈Ÿ°™‘Èπ" id="CheckboxGroup1_1">
-            ≈Ÿ°™‘Èπ</label>
+            <input type="checkbox" name="CheckboxGroup1[]" value="‡∏•‡∏π‡∏Å‡∏ä‡∏¥‡πâ‡∏ô" id="CheckboxGroup1_1">
+            ‡∏•‡∏π‡∏Å‡∏ä‡∏¥‡πâ‡∏ô</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup1[]" value="À¡Ÿ —∫" id="CheckboxGroup1_2">
-            À¡Ÿ —∫</label>
+            <input type="checkbox" name="CheckboxGroup1[]" value="‡∏´‡∏°‡∏π‡∏™‡∏±‡∏ö" id="CheckboxGroup1_2">
+            ‡∏´‡∏°‡∏π‡∏™‡∏±‡∏ö</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup1[]" value="µ—∫≈«°" id="CheckboxGroup1_4">
-            µ—∫≈«°</label>
+            <input type="checkbox" name="CheckboxGroup1[]" value="‡∏ï‡∏±‡∏ö‡∏•‡∏ß‡∏Å" id="CheckboxGroup1_4">
+            ‡∏ï‡∏±‡∏ö‡∏•‡∏ß‡∏Å</label>
       </p></div>
        <div class="form-group">
-    	   <h4>„ ËÕ–‰√‡ªÁπæ‘‡»…:</h4>
-        <label for="fvalue1">„ Ë‰¢Ë¬“ß¡–µŸ¡ 15 ∫“∑/øÕß:</label>
-			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’ËøÕß" name="fvalue1">
+    	   <h4>‡πÉ‡∏™‡πà‡∏≠‡∏∞‡πÑ‡∏£‡πÄ‡∏õ‡πá‡∏ô‡∏û‡∏¥‡πÄ‡∏®‡∏©:</h4>
+        <label for="fvalue1">‡πÉ‡∏™‡πà‡πÑ‡∏Ç‡πà‡∏¢‡∏≤‡∏á‡∏°‡∏∞‡∏ï‡∏π‡∏° 15 ‡∏ö‡∏≤‡∏ó/‡∏ü‡∏≠‡∏á:</label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ü‡∏≠‡∏á" name="fvalue1">
             
            
-        <label for="fvalue2">„ Ë°ÿÈß 55 ∫“∑/µ—«: </label>
-			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’Ëµ—«" name="fvalue2">
+        <label for="fvalue2">‡πÉ‡∏™‡πà‡∏Å‡∏∏‡πâ‡∏á 55 ‡∏ö‡∏≤‡∏ó/‡∏ï‡∏±‡∏ß: </label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ï‡∏±‡∏ß" name="fvalue2">
             
             
-        <label for="fvalue3">„ Ëª≈“À¡÷° 55 ∫“∑/µ—«: </label>
-    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’Ëµ—«" name="fvalue3">
+        <label for="fvalue3">‡πÉ‡∏™‡πà‡∏õ‡∏•‡∏≤‡∏´‡∏°‡∏∂‡∏Å 55 ‡∏ö‡∏≤‡∏ó/‡∏ï‡∏±‡∏ß: </label>
+    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ï‡∏±‡∏ß" name="fvalue3">
           </div>
                 <div class="form-group">
-                	<label for="fvalue4"><h4>‡æ‘Ë¡‡µ‘¡: </h4> 
-                	( ‘Ëß∑’ËµÈÕß°“√‡æ‘Ë¡‡µ‘¡ ‡™Ëπ ‰¡Ë„ Ëº—°)</label>
+                	<label for="fvalue4"><h4>‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏°: </h4> 
+                	(‡∏™‡∏¥‡πà‡∏á‡∏ó‡∏µ‡πà‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏° ‡πÄ‡∏ä‡πà‡∏ô ‡πÑ‡∏°‡πà‡πÉ‡∏™‡πà‡∏ú‡∏±‡∏Å)</label>
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue4">
                 </div>
-				<center>----∑Ë“π∑’Ë2----</center>
-				 <form class="form-group" method="post" action="1233.php" font="quark bold">    
+				<center>----‡∏ó‡πà‡∏≤‡∏ô‡∏ó‡∏µ‡πà2----</center>
+				 <form class="form-group" method="post" action="3.php" font="quark bold">    
        	<div class="form-group">
-          <label for="select"><h4>‡≈◊Õ°‡ Èπ :</h4></label>
-          <select  class="form-control" name="select" id="select" >
-             <option>‡≈◊Õ°‡ Èπ</option>
-            <option>‡ Èπ‡≈Á°</option>
-            <option>‡ ÈπÀ¡’Ë</option>
-            <option>‡ Èπ∫–À¡’Ë</option>
-            <option>«ÿÈπ‡ Èπ</option>
+          <label for="select"><h4>‡πÄ‡∏•‡∏∑‡∏≠‡∏Å‡πÄ‡∏™‡πâ‡∏ô :</h4></label>
+          <select  class="form-control" name="select2" id="select2" >
+             <option>‡πÄ‡∏•‡∏∑‡∏≠‡∏Å‡πÄ‡∏™‡πâ‡∏ô</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡πÄ‡∏•‡πá‡∏Å</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡∏´‡∏°‡∏µ‡πà</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡∏ö‡∏∞‡∏´‡∏°‡∏µ‡πà</option>
+            <option>‡∏ß‡∏∏‡πâ‡∏ô‡πÄ‡∏™‡πâ‡∏ô</option>
           </select>
        	  </div>
         </p>
         <p>
         <div class="form-group">
           <label>
-            <input type="checkbox" name="CheckboxGroup2[]" value="À¡Ÿ" id="CheckboxGroup2_5">
-            À¡Ÿ</label>
+            <input type="checkbox" name="CheckboxGroup2[]" value="‡∏´‡∏°‡∏π" id="CheckboxGroup2_5">
+            ‡∏´‡∏°‡∏π</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup2[]" value="≈Ÿ°™‘Èπ" id="CheckboxGroup2_6">
-            ≈Ÿ°™‘Èπ</label>
+            <input type="checkbox" name="CheckboxGroup2[]" value="‡∏•‡∏π‡∏Å‡∏ä‡∏¥‡πâ‡∏ô" id="CheckboxGroup2_6">
+            ‡∏•‡∏π‡∏Å‡∏ä‡∏¥‡πâ‡∏ô</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup2[]" value="À¡Ÿ —∫" id="CheckboxGroup2_7">
-            À¡Ÿ —∫</label>
+            <input type="checkbox" name="CheckboxGroup2[]" value="‡∏´‡∏°‡∏π‡∏™‡∏±‡∏ö" id="CheckboxGroup2_7">
+            ‡∏´‡∏°‡∏π‡∏™‡∏±‡∏ö</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup2[]" value="µ—∫≈«°" id="CheckboxGroup2_8">
-            µ—∫≈«°</label>
+            <input type="checkbox" name="CheckboxGroup2[]" value="‡∏ï‡∏±‡∏ö‡∏•‡∏ß‡∏Å" id="CheckboxGroup2_8">
+            ‡∏ï‡∏±‡∏ö‡∏•‡∏ß‡∏Å</label>
       </p></div>
        <div class="form-group">
-    	   <h4>„ ËÕ–‰√‡ªÁπæ‘‡»…:</h4>
-        <label for="fvalue1">„ Ë‰¢Ë¬“ß¡–µŸ¡ 15 ∫“∑/øÕß:</label>
-			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’ËøÕß" name="fvalue6">
+    	   <h4>‡πÉ‡∏™‡πà‡∏≠‡∏∞‡πÑ‡∏£‡πÄ‡∏õ‡πá‡∏ô‡∏û‡∏¥‡πÄ‡∏®‡∏©:</h4>
+        <label for="fvalue1">‡πÉ‡∏™‡πà‡πÑ‡∏Ç‡πà‡∏¢‡∏≤‡∏á‡∏°‡∏∞‡∏ï‡∏π‡∏° 15 ‡∏ö‡∏≤‡∏ó/‡∏ü‡∏≠‡∏á:</label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ü‡∏≠‡∏á" name="fvalue6">
             
            
-        <label for="fvalue2">„ Ë°ÿÈß 55 ∫“∑/µ—«: </label>
-			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’Ëµ—«" name="fvalue7">
+        <label for="fvalue2">‡πÉ‡∏™‡πà‡∏Å‡∏∏‡πâ‡∏á 55 ‡∏ö‡∏≤‡∏ó/‡∏ï‡∏±‡∏ß: </label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ï‡∏±‡∏ß" name="fvalue7">
             
             
-        <label for="fvalue3">„ Ëª≈“À¡÷° 55 ∫“∑/µ—«: </label>
-    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’Ëµ—«" name="fvalue8">
+        <label for="fvalue3">‡πÉ‡∏™‡πà‡∏õ‡∏•‡∏≤‡∏´‡∏°‡∏∂‡∏Å 55 ‡∏ö‡∏≤‡∏ó/‡∏ï‡∏±‡∏ß: </label>
+    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ï‡∏±‡∏ß" name="fvalue8">
           </div>
                 <div class="form-group">
-                	<label for="fvalue4"><h4>‡æ‘Ë¡‡µ‘¡: </h4> 
-                	( ‘Ëß∑’ËµÈÕß°“√‡æ‘Ë¡‡µ‘¡ ‡™Ëπ ‰¡Ë„ Ëº—°)</label>
+                	<label for="fvalue4"><h4>‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏°: </h4> 
+                	(‡∏™‡∏¥‡πà‡∏á‡∏ó‡∏µ‡πà‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏° ‡πÄ‡∏ä‡πà‡∏ô ‡πÑ‡∏°‡πà‡πÉ‡∏™‡πà‡∏ú‡∏±‡∏Å)</label>
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue9">
                 </div>
-				<center>----∑Ë“π∑’Ë3----</center>
+				<center>----‡∏ó‡πà‡∏≤‡∏ô‡∏ó‡∏µ‡πà3----</center>
 				 <form class="form-group" method="post" action="1233.php" font="quark bold">    
        	<div class="form-group">
-          <label for="select"><h4>‡≈◊Õ°‡ Èπ :</h4></label>
-          <select  class="form-control" name="select" id="select" >
-             <option>‡≈◊Õ°‡ Èπ</option>
-            <option>‡ Èπ‡≈Á°</option>
-            <option>‡ ÈπÀ¡’Ë</option>
-            <option>‡ Èπ∫–À¡’Ë</option>
-            <option>«ÿÈπ‡ Èπ</option>
+          <label for="select"><h4>‡πÄ‡∏•‡∏∑‡∏≠‡∏Å‡πÄ‡∏™‡πâ‡∏ô :</h4></label>
+          <select  class="form-control" name="select3" id="select3" >
+             <option>‡πÄ‡∏•‡∏∑‡∏≠‡∏Å‡πÄ‡∏™‡πâ‡∏ô</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡πÄ‡∏•‡πá‡∏Å</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡∏´‡∏°‡∏µ‡πà</option>
+            <option>‡πÄ‡∏™‡πâ‡∏ô‡∏ö‡∏∞‡∏´‡∏°‡∏µ‡πà</option>
+            <option>‡∏ß‡∏∏‡πâ‡∏ô‡πÄ‡∏™‡πâ‡∏ô</option>
           </select>
        	  </div>
         </p>
         <p>
         <div class="form-group">
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="À¡Ÿ" id="CheckboxGroup3_9">
-            À¡Ÿ</label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="‡∏´‡∏°‡∏π" id="CheckboxGroup3_9">
+            ‡∏´‡∏°‡∏π</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="≈Ÿ°™‘Èπ" id="CheckboxGroup3_10">
-            ≈Ÿ°™‘Èπ</label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="‡∏•‡∏π‡∏Å‡∏ä‡∏¥‡πâ‡∏ô" id="CheckboxGroup3_10">
+            ‡∏•‡∏π‡∏Å‡∏ä‡∏¥‡πâ‡∏ô</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="À¡Ÿ —∫" id="CheckboxGroup3_11">
-            À¡Ÿ —∫</label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="‡∏´‡∏°‡∏π‡∏™‡∏±‡∏ö" id="CheckboxGroup3_11">
+            ‡∏´‡∏°‡∏π‡∏™‡∏±‡∏ö</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="µ—∫≈«°" id="CheckboxGroup3_12">
-            µ—∫≈«°</label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="‡∏ï‡∏±‡∏ö‡∏•‡∏ß‡∏Å" id="CheckboxGroup3_12">
+            ‡∏ï‡∏±‡∏ö‡∏•‡∏ß‡∏Å</label>
       </p></div>
        <div class="form-group">
-    	   <h4>„ ËÕ–‰√‡ªÁπæ‘‡»…:</h4>
-        <label for="fvalue1">„ Ë‰¢Ë¬“ß¡–µŸ¡ 15 ∫“∑/øÕß:</label>
-			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’ËøÕß" name="fvalue10">
+    	   <h4>‡πÉ‡∏™‡πà‡∏≠‡∏∞‡πÑ‡∏£‡πÄ‡∏õ‡πá‡∏ô‡∏û‡∏¥‡πÄ‡∏®‡∏©:</h4>
+        <label for="fvalue1">‡πÉ‡∏™‡πà‡πÑ‡∏Ç‡πà‡∏¢‡∏≤‡∏á‡∏°‡∏∞‡∏ï‡∏π‡∏° 15 ‡∏ö‡∏≤‡∏ó/‡∏ü‡∏≠‡∏á:</label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ü‡∏≠‡∏á" name="fvalue10">
             
            
-        <label for="fvalue2">„ Ë°ÿÈß 55 ∫“∑/µ—«: </label>
-			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’Ëµ—«" name="fvalue11">
+        <label for="fvalue2">‡πÉ‡∏™‡πà‡∏Å‡∏∏‡πâ‡∏á 55 ‡∏ö‡∏≤‡∏ó/‡∏ï‡∏±‡∏ß: </label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ï‡∏±‡∏ß" name="fvalue11">
             
             
-        <label for="fvalue3">„ Ëª≈“À¡÷° 55 ∫“∑/µ—«: </label>
-    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="°’Ëµ—«" name="fvalue12">
+        <label for="fvalue3">‡πÉ‡∏™‡πà‡∏õ‡∏•‡∏≤‡∏´‡∏°‡∏∂‡∏Å 55 ‡∏ö‡∏≤‡∏ó/‡∏ï‡∏±‡∏ß: </label>
+    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="‡∏Å‡∏µ‡πà‡∏ï‡∏±‡∏ß" name="fvalue12">
           </div>
                 <div class="form-group">
-                	<label for="fvalue4"><h4>‡æ‘Ë¡‡µ‘¡: </h4> 
-                	( ‘Ëß∑’ËµÈÕß°“√‡æ‘Ë¡‡µ‘¡ ‡™Ëπ ‰¡Ë„ Ëº—°)</label>
+                	<label for="fvalue4"><h4>‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏°: </h4> 
+                	(‡∏™‡∏¥‡πà‡∏á‡∏ó‡∏µ‡πà‡∏ï‡πâ‡∏≠‡∏á‡∏Å‡∏≤‡∏£‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏° ‡πÄ‡∏ä‡πà‡∏ô ‡πÑ‡∏°‡πà‡πÉ‡∏™‡πà‡∏ú‡∏±‡∏Å)</label>
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue13">
                 </div>
                 
                 <div class="form-group">
-                	<label for="fvalue5"><h4>™◊ËÕºŸÈ —Ëß</h4></label>
+                	<label for="fvalue5"><h4>‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡∏™‡∏±‡πà‡∏á</h4></label>
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue5">
                 </div>  
                 
@@ -197,14 +197,14 @@ body,td,th {
 					<label class="control-label" for="submit"></label>
 					<div class="controls">
 					<button id="submit" name="ok" value="ok"
-							class="btn btn-warning"> —Ëß</button>
+							class="btn btn-warning">‡∏™‡∏±‡πà‡∏á</button>
 						<button input type="reset" name="Submit1" value="   RESET  " class="btn btn-danger">RESET</button>
 					</div>
 				</div>                          
         </form></td>
       <td width="454" align="center" valign="top">
 		
-		<p><img src="°Î«¬‡µ’Î¬«.png" width="200" height="193" alt=""/></p>
+		<p><img src="‡∏Å‡πã‡∏ß‡∏¢‡πÄ‡∏ï‡∏µ‡πã‡∏¢‡∏ß.png" width="200" height="193" alt=""/></p>
         
         
 		<p>
@@ -213,16 +213,16 @@ body,td,th {
 		if(isset($_POST['select'])){
 		$selected_val = $_POST['select'];  
 		
-		echo "<h3>√“¬°“√™”√–‡ß‘π </h3><br>";
-		echo "<h4>------™“¡∑’Ë1-------</h4>"."<br>";
-		echo "‡ Èπ :     " .$selected_val."<br>";
+		echo "<h3>‡∏£‡∏≤‡∏¢‡∏Å‡∏≤‡∏£‡∏ä‡∏≥‡∏£‡∏∞‡πÄ‡∏á‡∏¥‡∏ô </h3><br>";
+		echo "<h4>------‡∏ä‡∏≤‡∏°‡∏ó‡∏µ‡πà1-------</h4>"."<br>";
+		echo "‡πÄ‡∏™‡πâ‡∏ô :     " .$selected_val."<br>";
 		}
 		if(isset($_POST['CheckboxGroup1'])){
 		for($i=0;$i<count($_POST["CheckboxGroup1"]);$i++){
 		if(trim($_POST["CheckboxGroup1"][$i]) != "")
 		{
 		$box = $_POST["CheckboxGroup1"][$i];
-		echo "„ Ë :     ".$box."<br>";
+		echo "‡πÉ‡∏™‡πà :     ".$box."<br>";
 		}
 		}
 		}
@@ -230,7 +230,7 @@ body,td,th {
 		$a = $_POST['fvalue1'];
 		$aa = $a*15;
 		if($aa != 0){
-			echo "‰¢Ë¬“ß¡–µŸ¡ :   $a  øÕß    ".$aa." ∫“∑"."<br>";
+			echo "‡πÑ‡∏Ç‡πà‡∏¢‡∏≤‡∏á‡∏°‡∏∞‡∏ï‡∏π‡∏° :   $a  ‡∏ü‡∏≠‡∏á    ".$aa." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum = 0;
 			$sum = $sum+$aa;
 		}
@@ -239,7 +239,7 @@ body,td,th {
 		$b = $_POST['fvalue2'];
 		$bb = $b*55;
 		if($bb != 0){
-			echo "°ÿÈß :   $b  µ—«     ".$bb." ∫“∑"."<br>";
+			echo "‡∏Å‡∏∏‡πâ‡∏á :   $b  ‡∏ï‡∏±‡∏ß     ".$bb." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum = $sum+$bb;
 		}
 		}
@@ -247,26 +247,31 @@ body,td,th {
 		$c = $_POST['fvalue3'];
 		$cc = $c*55;
 		if($cc != 0){
-			echo "ª≈“À¡÷° :    $c  µ—«    ".$cc." ∫“∑"."<br>";
+			echo "‡∏õ‡∏•‡∏≤‡∏´‡∏°‡∏∂‡∏Å :    $c  ‡∏ï‡∏±‡∏ß    ".$cc." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum = $sum+$cc;
 		}
 		}
 		if(isset($_POST['fvalue4'])){
 		if($_POST['fvalue4'] != " "){
-			echo "‡æ‘Ë¡‡µ‘¡ : ".$_POST['fvalue4']."<br>";
+			echo "‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏° : ".$_POST['fvalue4']."<br>";
 			$sum = $sum+35;
-			echo "‡ªÁπ‡ß‘π :  ".$sum." ∫“∑"."<br>";
+			echo "‡πÄ‡∏õ‡πá‡∏ô‡πÄ‡∏á‡∏¥‡∏ô :  ".$sum." ‡∏ö‡∏≤‡∏ó"."<br>";
 		}
 		
-			echo "<h4>------™“¡∑’Ë2-------</h4>"."<br>";
+			if(isset($_POST['select2'])){
+		$selected_val = $_POST['select2'];  
 		
+		
+		echo "<h4>------‡∏ä‡∏≤‡∏°‡∏ó‡∏µ‡πà2-------</h4>"."<br>";
+		echo "‡πÄ‡∏™‡πâ‡∏ô :     " .$selected_val."<br>";
+		}
 		}
 		if(isset($_POST['CheckboxGroup2'])){
 		for($i=0;$i<count($_POST["CheckboxGroup2"]);$i++){
 		if(trim($_POST["CheckboxGroup2"][$i]) != "")
 		{
 		$box = $_POST["CheckboxGroup2"][$i];
-		echo "„ Ë :     ".$box."<br>";
+		echo "‡πÉ‡∏™‡πà :     ".$box."<br>";
 		}
 		}
 		}
@@ -274,7 +279,7 @@ body,td,th {
 		$a = $_POST['fvalue6'];
 		$aa = $a*15;
 		if($aa != 0){
-			echo "‰¢Ë¬“ß¡–µŸ¡ :   $a  øÕß    ".$aa." ∫“∑"."<br>";
+			echo "‡πÑ‡∏Ç‡πà‡∏¢‡∏≤‡∏á‡∏°‡∏∞‡∏ï‡∏π‡∏° :   $a  ‡∏ü‡∏≠‡∏á    ".$aa." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum2 = 0;
 			$sum2 = $sum2+$aa;
 		}
@@ -283,7 +288,7 @@ body,td,th {
 		$b = $_POST['fvalue7'];
 		$bb = $b*55;
 		if($bb != 0){
-			echo "°ÿÈß :   $b  µ—«     ".$bb." ∫“∑"."<br>";
+			echo "‡∏Å‡∏∏‡πâ‡∏á :   $b  ‡∏ï‡∏±‡∏ß     ".$bb." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum2 = $sum2+$bb;
 		}
 		}
@@ -291,27 +296,32 @@ body,td,th {
 		$c = $_POST['fvalue8'];
 		$cc = $c*55;
 		if($cc != 0){
-			echo "ª≈“À¡÷° :    $c  µ—«    ".$cc." ∫“∑"."<br>";
+			echo "‡∏õ‡∏•‡∏≤‡∏´‡∏°‡∏∂‡∏Å :    $c  ‡∏ï‡∏±‡∏ß    ".$cc." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum2 = $sum2+$cc;
 		}
 		}
 		if(isset($_POST['fvalue9'])){
 		if($_POST['fvalue9'] != " "){
-			echo "‡æ‘Ë¡‡µ‘¡ : ".$_POST['fvalue9']."<br>";
+			echo "‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏° : ".$_POST['fvalue9']."<br>";
 			$sum2 = $sum2+35;
-			echo "‡ªÁπ‡ß‘π :  ".$sum2." ∫“∑"."<br>";
+			echo "‡πÄ‡∏õ‡πá‡∏ô‡πÄ‡∏á‡∏¥‡∏ô :  ".$sum2." ‡∏ö‡∏≤‡∏ó"."<br>";
 
 		}
 		
-			echo "<h4>------™“¡∑’Ë3-------</h4>"."<br>";
+			if(isset($_POST['select3'])){
+		$selected_val = $_POST['select3'];  
 		
+		
+		echo "<h4>------‡∏ä‡∏≤‡∏°‡∏ó‡∏µ‡πà3-------</h4>"."<br>";
+		echo "‡πÄ‡∏™‡πâ‡∏ô :     " .$selected_val."<br>";
+		}	
 		}
 		if(isset($_POST['CheckboxGroup3'])){
 		for($i=0;$i<count($_POST["CheckboxGroup3"]);$i++){
 		if(trim($_POST["CheckboxGroup3"][$i]) != "")
 		{
 		$box = $_POST["CheckboxGroup3"][$i];
-		echo "„ Ë :     ".$box."<br>";
+		echo "‡πÉ‡∏™‡πà :     ".$box."<br>";
 		}
 		}
 		}
@@ -319,7 +329,7 @@ body,td,th {
 		$a = $_POST['fvalue10'];
 		$aa = $a*15;
 		if($aa != 0){
-			echo "‰¢Ë¬“ß¡–µŸ¡ :   $a  øÕß    ".$aa." ∫“∑"."<br>";
+			echo "‡πÑ‡∏Ç‡πà‡∏¢‡∏≤‡∏á‡∏°‡∏∞‡∏ï‡∏π‡∏° :   $a  ‡∏ü‡∏≠‡∏á    ".$aa." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum3 = 0;
 			$sum3 = $sum3+$aa;
 		}
@@ -328,7 +338,7 @@ body,td,th {
 		$b = $_POST['fvalue11'];
 		$bb = $b*55;
 		if($bb != 0){
-			echo "°ÿÈß :   $b  µ—«     ".$bb." ∫“∑"."<br>";
+			echo "‡∏Å‡∏∏‡πâ‡∏á :   $b  ‡∏ï‡∏±‡∏ß     ".$bb." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum3 = $sum3+$bb;
 		}
 		}
@@ -336,22 +346,22 @@ body,td,th {
 		$c = $_POST['fvalue12'];
 		$cc = $c*55;
 		if($cc != 0){
-			echo "ª≈“À¡÷° :    $c  µ—«    ".$cc." ∫“∑"."<br>";
+			echo "‡∏õ‡∏•‡∏≤‡∏´‡∏°‡∏∂‡∏Å :    $c  ‡∏ï‡∏±‡∏ß    ".$cc." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sum3 = $sum3+$cc;
 		}
 		}
 		if(isset($_POST['fvalue13'])){
 		if($_POST['fvalue13'] != " "){
-			echo "‡æ‘Ë¡‡µ‘¡ : ".$_POST['fvalue13']."<br>";
+			echo "‡πÄ‡∏û‡∏¥‡πà‡∏°‡πÄ‡∏ï‡∏¥‡∏° : ".$_POST['fvalue13']."<br>";
 		}
 		}
 		if(isset($_POST['fvalue5'])){
-			echo "™◊ËÕºŸÈ —Ëß:   ".$_POST['fvalue5']."<br>";
+			echo "‡∏ä‡∏∑‡πà‡∏≠‡∏ú‡∏π‡πâ‡∏™‡∏±‡πà‡∏á:   ".$_POST['fvalue5']."<br>";
 			$sum3 = $sum3+35;
-			echo "‡ªÁπ‡ß‘π :  ".$sum3." ∫“∑"."<br>";
+			echo "‡πÄ‡∏õ‡πá‡∏ô‡πÄ‡∏á‡∏¥‡∏ô :  ".$sum3." ‡∏ö‡∏≤‡∏ó"."<br>";
 			$sums=$sum+$sum2+$sum3;
-			echo "<h4>------√«¡∑—ÈßÀ¡¥-------</h4>"."<br>";
-			echo "‡ªÁπ‡ß‘π:".$sums."∫“∑"."<br>";
+			echo "<h4>------‡∏£‡∏ß‡∏°‡∏ó‡∏±‡πâ‡∏á‡∏´‡∏°‡∏î-------</h4>"."<br>";
+			echo "‡πÄ‡∏õ‡πá‡∏ô‡πÄ‡∏á‡∏¥‡∏ô:".$sums."‡∏ö‡∏≤‡∏ó"."<br>";
 			}
 			
 		?>

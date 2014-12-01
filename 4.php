@@ -41,7 +41,7 @@ body,td,th {
       <td width="307" ><h1><center>สั่งก๋วยเตี๋ยวต้มยำ</center></h1>
       <center><h3>บ้านลายจุดข้างวัง   </h3></center>
 	  <center>----ท่านที่1----</center>
-      <form class="form-group" method="post" action="1.php" font="quark bold">    
+      <form class="form-group" method="post" action="4.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
           <select  class="form-control" name="select" id="select" >
@@ -90,10 +90,10 @@ body,td,th {
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue4">
                 </div>
 				<center>----ท่านที่2----</center>
-				 <form class="form-group" method="post" action="2.php" font="quark bold">    
+				 <form class="form-group" method="post" action="4.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
-          <select  class="form-control" name="select" id="select" >
+          <select  class="form-control" name="select2" id="select2" >
              <option>เลือกเส้น</option>
             <option>เส้นเล็ก</option>
             <option>เส้นหมี่</option>
@@ -139,10 +139,10 @@ body,td,th {
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue9">
                 </div>
 				<center>----ท่านที่3----</center>
-				 <form class="form-group" method="post" action="3.php" font="quark bold">    
+				 <form class="form-group" method="post" action="4.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
-          <select  class="form-control" name="select" id="select" >
+          <select  class="form-control" name="select3" id="select3" >
              <option>เลือกเส้น</option>
             <option>เส้นเล็ก</option>
             <option>เส้นหมี่</option>
@@ -192,7 +192,7 @@ body,td,th {
 				 <form class="form-group" method="post" action="4.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
-          <select  class="form-control" name="select" id="select" >
+          <select  class="form-control" name="select4" id="select4" >
              <option>เลือกเส้น</option>
             <option>เส้นเล็ก</option>
             <option>เส้นหมี่</option>
@@ -204,19 +204,19 @@ body,td,th {
         <p>
         <div class="form-group">
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="หมู" id="CheckboxGroup4_13">
+            <input type="checkbox" name="CheckboxGroup4[]" value="หมู" id="CheckboxGroup4_13">
             หมู</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="ลูกชิ้น" id="CheckboxGroup4_14">
+            <input type="checkbox" name="CheckboxGroup4[]" value="ลูกชิ้น" id="CheckboxGroup4_14">
             ลูกชิ้น</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="หมูสับ" id="CheckboxGroup4_15">
+            <input type="checkbox" name="CheckboxGroup4[]" value="หมูสับ" id="CheckboxGroup4_15">
             หมูสับ</label>
           <br>
           <label>
-            <input type="checkbox" name="CheckboxGroup3[]" value="ตับลวก" id="CheckboxGroup4_16">
+            <input type="checkbox" name="CheckboxGroup4[]" value="ตับลวก" id="CheckboxGroup4_16">
             ตับลวก</label>
       </p></div>
        <div class="form-group">
@@ -307,8 +307,13 @@ body,td,th {
 			$sum = $sum+35;
 			echo "เป็นเงิน :  ".$sum." บาท"."<br>";
 		}
+		if(isset($_POST['select2'])){
+		$selected_val = $_POST['select2'];  
 		
-			echo "<h4>------ชามที่2-------</h4>"."<br>";
+		
+		echo "<h4>------ชามที่2-------</h4>"."<br>";
+		echo "เส้น :     " .$selected_val."<br>";
+		}
 		
 		}
 		if(isset($_POST['CheckboxGroup2'])){
@@ -353,7 +358,13 @@ body,td,th {
 
 		}
 		
-			echo "<h4>------ชามที่3-------</h4>"."<br>";
+			if(isset($_POST['select3'])){
+		$selected_val = $_POST['select3'];  
+		
+		
+		echo "<h4>------ชามที่3-------</h4>"."<br>";
+		echo "เส้น :     " .$selected_val."<br>";
+		}
 		
 		}
 		if(isset($_POST['CheckboxGroup3'])){
@@ -394,7 +405,16 @@ body,td,th {
 		if($_POST['fvalue13'] != " "){
 			echo "เพิ่มเติม : ".$_POST['fvalue13']."<br>";
 		}
+		
+		
+		
+		if(isset($_POST['select4'])){
+		$selected_val = $_POST['select4'];  
+		
+		
 		echo "<h4>------ชามที่4-------</h4>"."<br>";
+		echo "เส้น :     " .$selected_val."<br>";
+		}
 		
 		}
 		if(isset($_POST['CheckboxGroup4'])){

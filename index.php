@@ -43,7 +43,8 @@ body,td,th {
 	  <center><h3>สั่งกี่ถ้วย</h3></center>
  <center><a href="1.php">สั่ง 1 ท่าน</a><p>	<br>
  <a href="2.php">สัง 2 ท่าน</a><p>	<br>
- <a href="3.php">สั่ง 3 ท่าน</a><p>	<br></center>
+ <a href="3.php">สั่ง 3 ท่าน</a><p>	<br>
+ <a href="4.php">สัง 4 ท่าน</a><p>	<br></center>
        <td width="454" align="center" valign="top">
 		<p><img src="ก๋วยเตี๋ยว.png" width="200" height="193" alt=""/></p>   
         <p><img src="45.png" width="437" height="305" alt=""/></p></td>
