@@ -41,7 +41,7 @@ body,td,th {
       <td width="307" ><h1><center>สั่งก๋วยเตี๋ยวต้มยำ</center></h1>
       <center><h3>บ้านลายจุดข้างวัง   </h3></center>
 	  <center>----ท่านที่1----</center>
-      <form class="form-group" method="post" action="2.php" font="quark bold">    
+      <form class="form-group" method="post" action="4.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
           <select  class="form-control" name="select" id="select" >
@@ -90,10 +90,10 @@ body,td,th {
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue4">
                 </div>
 				<center>----ท่านที่2----</center>
-				 <form class="form-group" method="post" action="2.php" font="quark bold">    
+				 <form class="form-group" method="post" action="4.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
-          <select  class="form-control" name="select1" id="select1" >
+          <select  class="form-control" name="select2" id="select2" >
              <option>เลือกเส้น</option>
             <option>เส้นเล็ก</option>
             <option>เส้นหมี่</option>
@@ -137,6 +137,105 @@ body,td,th {
                 	<label for="fvalue4"><h4>เพิ่มเติม: </h4> 
                 	(สิ่งที่ต้องการเพิ่มเติม เช่น ไม่ใส่ผัก)</label>
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue9">
+                </div>
+				<center>----ท่านที่3----</center>
+				 <form class="form-group" method="post" action="4.php" font="quark bold">    
+       	<div class="form-group">
+          <label for="select"><h4>เลือกเส้น :</h4></label>
+          <select  class="form-control" name="select3" id="select3" >
+             <option>เลือกเส้น</option>
+            <option>เส้นเล็ก</option>
+            <option>เส้นหมี่</option>
+            <option>เส้นบะหมี่</option>
+            <option>วุ้นเส้น</option>
+          </select>
+       	  </div>
+        </p>
+        <p>
+        <div class="form-group">
+          <label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="หมู" id="CheckboxGroup3_9">
+            หมู</label>
+          <br>
+          <label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="ลูกชิ้น" id="CheckboxGroup3_10">
+            ลูกชิ้น</label>
+          <br>
+          <label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="หมูสับ" id="CheckboxGroup3_11">
+            หมูสับ</label>
+          <br>
+          <label>
+            <input type="checkbox" name="CheckboxGroup3[]" value="ตับลวก" id="CheckboxGroup3_12">
+            ตับลวก</label>
+      </p></div>
+       <div class="form-group">
+    	   <h4>ใส่อะไรเป็นพิเศษ:</h4>
+        <label for="fvalue1">ใส่ไข่ยางมะตูม 15 บาท/ฟอง:</label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="กี่ฟอง" name="fvalue10">
+            
+           
+        <label for="fvalue2">ใส่กุ้ง 55 บาท/ตัว: </label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="กี่ตัว" name="fvalue11">
+            
+            
+        <label for="fvalue3">ใส่ปลาหมึก 55 บาท/ตัว: </label>
+    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="กี่ตัว" name="fvalue12">
+          </div>
+                <div class="form-group">
+                	<label for="fvalue4"><h4>เพิ่มเติม: </h4> 
+                	(สิ่งที่ต้องการเพิ่มเติม เช่น ไม่ใส่ผัก)</label>
+    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue13">
+                </div>
+
+				<center>----ท่านที่4----</center>
+				 <form class="form-group" method="post" action="4.php" font="quark bold">    
+       	<div class="form-group">
+          <label for="select"><h4>เลือกเส้น :</h4></label>
+          <select  class="form-control" name="select4" id="select4" >
+             <option>เลือกเส้น</option>
+            <option>เส้นเล็ก</option>
+            <option>เส้นหมี่</option>
+            <option>เส้นบะหมี่</option>
+            <option>วุ้นเส้น</option>
+          </select>
+       	  </div>
+        </p>
+        <p>
+        <div class="form-group">
+          <label>
+            <input type="checkbox" name="CheckboxGroup4[]" value="หมู" id="CheckboxGroup4_13">
+            หมู</label>
+          <br>
+          <label>
+            <input type="checkbox" name="CheckboxGroup4[]" value="ลูกชิ้น" id="CheckboxGroup4_14">
+            ลูกชิ้น</label>
+          <br>
+          <label>
+            <input type="checkbox" name="CheckboxGroup4[]" value="หมูสับ" id="CheckboxGroup4_15">
+            หมูสับ</label>
+          <br>
+          <label>
+            <input type="checkbox" name="CheckboxGroup4[]" value="ตับลวก" id="CheckboxGroup4_16">
+            ตับลวก</label>
+      </p></div>
+       <div class="form-group">
+    	   <h4>ใส่อะไรเป็นพิเศษ:</h4>
+        <label for="fvalue1">ใส่ไข่ยางมะตูม 15 บาท/ฟอง:</label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="กี่ฟอง" name="fvalue14">
+            
+           
+        <label for="fvalue2">ใส่กุ้ง 55 บาท/ตัว: </label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="กี่ตัว" name="fvalue15">
+            
+            
+        <label for="fvalue3">ใส่ปลาหมึก 55 บาท/ตัว: </label>
+    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="กี่ตัว" name="fvalue16">
+          </div>
+                <div class="form-group">
+                	<label for="fvalue4"><h4>เพิ่มเติม: </h4> 
+                	(สิ่งที่ต้องการเพิ่มเติม เช่น ไม่ใส่ผัก)</label>
+    		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue17">
                 </div>
                 
                 <div class="form-group">
@@ -208,9 +307,8 @@ body,td,th {
 			$sum = $sum+35;
 			echo "เป็นเงิน :  ".$sum." บาท"."<br>";
 		}
-		
-			if(isset($_POST['select1'])){
-		$selected_val = $_POST['select1'];  
+		if(isset($_POST['select2'])){
+		$selected_val = $_POST['select2'];  
 		
 		
 		echo "<h4>------ชามที่2-------</h4>"."<br>";
@@ -259,14 +357,114 @@ body,td,th {
 			echo "เป็นเงิน :  ".$sum2." บาท"."<br>";
 
 		}
+		
+			if(isset($_POST['select3'])){
+		$selected_val = $_POST['select3'];  
+		
+		
+		echo "<h4>------ชามที่3-------</h4>"."<br>";
+		echo "เส้น :     " .$selected_val."<br>";
+		}
+		
+		}
+		if(isset($_POST['CheckboxGroup3'])){
+		for($i=0;$i<count($_POST["CheckboxGroup3"]);$i++){
+		if(trim($_POST["CheckboxGroup3"][$i]) != "")
+		{
+		$box = $_POST["CheckboxGroup3"][$i];
+		echo "ใส่ :     ".$box."<br>";
+		}
+		}
+		}
+		if(isset($_POST['fvalue10'])){
+		$a = $_POST['fvalue10'];
+		$aa = $a*15;
+		if($aa != 0){
+			echo "ไข่ยางมะตูม :   $a  ฟอง    ".$aa." บาท"."<br>";
+			$sum3 = 0;
+			$sum3 = $sum3+$aa;
+		}
+		}
+		if(isset($_POST['fvalue11'])){
+		$b = $_POST['fvalue11'];
+		$bb = $b*55;
+		if($bb != 0){
+			echo "กุ้ง :   $b  ตัว     ".$bb." บาท"."<br>";
+			$sum3 = $sum3+$bb;
+		}
+		}
+		if(isset($_POST['fvalue12'])){
+		$c = $_POST['fvalue12'];
+		$cc = $c*55;
+		if($cc != 0){
+			echo "ปลาหมึก :    $c  ตัว    ".$cc." บาท"."<br>";
+			$sum3 = $sum3+$cc;
+		}
+		}
+		if(isset($_POST['fvalue13'])){
+		if($_POST['fvalue13'] != " "){
+			echo "เพิ่มเติม : ".$_POST['fvalue13']."<br>";
+		}
+		
+		
+		
+		if(isset($_POST['select4'])){
+		$selected_val = $_POST['select4'];  
+		
+		
+		echo "<h4>------ชามที่4-------</h4>"."<br>";
+		echo "เส้น :     " .$selected_val."<br>";
+		}
+		
+		}
+		if(isset($_POST['CheckboxGroup4'])){
+		for($i=0;$i<count($_POST["CheckboxGroup4"]);$i++){
+		if(trim($_POST["CheckboxGroup4"][$i]) != "")
+		{
+		$box = $_POST["CheckboxGroup4"][$i];
+		echo "ใส่ :     ".$box."<br>";
+		}
+		}
+		}
+		if(isset($_POST['fvalue14'])){
+		$a = $_POST['fvalue14'];
+		$aa = $a*15;
+		if($aa != 0){
+			echo "ไข่ยางมะตูม :   $a  ฟอง    ".$aa." บาท"."<br>";
+			$sum3 = 0;
+			$sum3 = $sum3+$aa;
+		}
+		}
+		if(isset($_POST['fvalue15'])){
+		$b = $_POST['fvalue15'];
+		$bb = $b*55;
+		if($bb != 0){
+			echo "กุ้ง :   $b  ตัว     ".$bb." บาท"."<br>";
+			$sum3 = $sum3+$bb;
+		}
+		}
+		if(isset($_POST['fvalue16'])){
+		$c = $_POST['fvalue16'];
+		$cc = $c*55;
+		if($cc != 0){
+			echo "ปลาหมึก :    $c  ตัว    ".$cc." บาท"."<br>";
+			$sum3 = $sum3+$cc;
+		}
+		}
+		if(isset($_POST['fvalue17'])){
+		if($_POST['fvalue17'] != " "){
+			echo "เพิ่มเติม : ".$_POST['fvalue17']."<br>";
+		}
 		}
 		if(isset($_POST['fvalue5'])){
 			echo "ชื่อผู้สั่ง:   ".$_POST['fvalue5']."<br>";
-			$sum2 = $sum2+35;
-			echo "เป็นเงิน :  ".$sum2." บาท"."<br>";
-			$sums=$sum+$sum2;
+			$sum3 = $sum3+35;
+			echo "เป็นเงิน :  ".$sum3." บาท"."<br>";
+			$sums=$sum+$sum2+$sum3;
 			echo "<h4>------รวมทั้งหมด-------</h4>"."<br>";
-			echo "รวมเป็นเงิน:".$sums."บาท"."<br>";		}
+			echo "เป็นเงิน:".$sums."บาท"."<br>";
+			}
+			
 		?>
       </p>
 	  <p>&nbsp;</p>

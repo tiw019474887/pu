@@ -90,10 +90,10 @@ body,td,th {
     		<input type="text" class="form-control" id="exampleInputEmail1" placeholder="" name="fvalue4">
                 </div>
 				<center>----ท่านที่2----</center>
-				 <form class="form-group" method="post" action="1233.php" font="quark bold">    
+				 <form class="form-group" method="post" action="3.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
-          <select  class="form-control" name="select" id="select" >
+          <select  class="form-control" name="select2" id="select2" >
              <option>เลือกเส้น</option>
             <option>เส้นเล็ก</option>
             <option>เส้นหมี่</option>
@@ -142,7 +142,7 @@ body,td,th {
 				 <form class="form-group" method="post" action="1233.php" font="quark bold">    
        	<div class="form-group">
           <label for="select"><h4>เลือกเส้น :</h4></label>
-          <select  class="form-control" name="select" id="select" >
+          <select  class="form-control" name="select3" id="select3" >
              <option>เลือกเส้น</option>
             <option>เส้นเล็ก</option>
             <option>เส้นหมี่</option>
@@ -258,8 +258,13 @@ body,td,th {
 			echo "เป็นเงิน :  ".$sum." บาท"."<br>";
 		}
 		
-			echo "<h4>------ชามที่2-------</h4>"."<br>";
+			if(isset($_POST['select2'])){
+		$selected_val = $_POST['select2'];  
 		
+		
+		echo "<h4>------ชามที่2-------</h4>"."<br>";
+		echo "เส้น :     " .$selected_val."<br>";
+		}
 		}
 		if(isset($_POST['CheckboxGroup2'])){
 		for($i=0;$i<count($_POST["CheckboxGroup2"]);$i++){
@@ -303,8 +308,13 @@ body,td,th {
 
 		}
 		
-			echo "<h4>------ชามที่3-------</h4>"."<br>";
+			if(isset($_POST['select3'])){
+		$selected_val = $_POST['select3'];  
 		
+		
+		echo "<h4>------ชามที่3-------</h4>"."<br>";
+		echo "เส้น :     " .$selected_val."<br>";
+		}	
 		}
 		if(isset($_POST['CheckboxGroup3'])){
 		for($i=0;$i<count($_POST["CheckboxGroup3"]);$i++){
